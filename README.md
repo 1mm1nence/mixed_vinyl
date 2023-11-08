@@ -1,1 +1,1 @@
-# SymfonyCasts: "Harmonious Development with Symfony 6"
+SymfonyCasts: "Harmonious Development with Symfony 6"
